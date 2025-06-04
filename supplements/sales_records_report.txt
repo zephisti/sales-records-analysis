@@ -1,0 +1,79 @@
+NOTE: Copy and paste all of this into Notion to see the markdown format transformed to the appropriate format!
+------------------------------------------------------------------
+-------------------------------------------------------------------
+
+**Sales Performance & Insights Summary**
+
+**1. Top Performing Countries by Profit**
+
+The most profitable countries were:
+
+- **Sudan** ($249.5M)
+- **Hungary** ($241.9M)
+- **Micronesia** ($241.0M)
+- **Liberia** ($239.1M)
+- **Australia** ($238.6M)
+
+**2. Revenue by Product Category**
+
+Highest average revenue was generated from:
+
+- **Household** ($3.35M)
+- **Office Supplies** ($3.27M)
+- **Cosmetics** ($2.19M)
+- **Meat** ($2.12M)
+
+**3. Sales Channels Performance**
+
+- **Online:** 250.27M units, $66.86B revenue
+- **Offline:** 249.87M units, $66.75B revenue
+    
+    Sales performance was nearly equal across channels, with online slightly ahead in revenue.
+    
+
+**4. Monthly Revenue Trends (First Year)**
+
+Monthly revenue was stable, peaking in **August 2010** ($1.61B). Seasonal variations are present but moderate.
+
+**5. Regional Profit Margins**
+
+Regions with the highest average profit margins:
+
+- **Central America & Caribbean:** 34.42%
+- **Australia & Oceania:** 34.38%
+- **Middle East & North Africa:** 34.36%
+
+**6. Shipping Times**
+
+- **Average Shipping Time:** 25.04 days
+- **Longest shipping delays (50 days)** occurred in Ghana, Eritrea, Cameroon, Dominica, and Côte d'Ivoire.
+
+**7. Revenue by Sales Channel and Product**
+
+Top revenue generators across both channels:
+
+- **Household, Office Supplies, Meat, and Cosmetics**
+    
+    Revenue is evenly distributed between online and offline for most categories.
+    
+
+**8. Product Diversity Across Regions**
+
+All regions sold the **full range of 12 unique item types**, indicating consistent global distribution.
+
+**9. Order Prioritization**
+
+Order priorities were evenly split:
+
+- **Medium (M):** 25.09%
+- **Low (L):** 25.02%
+- **Critical (C):** 24.95%
+- **High (H):** 24.95%
+
+**10. Average Unit Costs**
+
+Highest unit costs were observed in:
+
+- **Office Supplies:** $524.96
+- **Household:** $502.54
+- **Meat:** $364.69
